@@ -57,8 +57,17 @@ Statement in collection: Material is believed to be in the public domain. Howeve
 
 ## Notes
 ### Resources
+Bureau of Land Management Mine & Land Records System Map https://mlrs.blm.gov/s/research-map#7,38.69277942814051,-103.09011740322576
+
+Bureau of Land Management Information on Mining Claims https://www.blm.gov/programs/energy-and-minerals/mining-and-minerals/locatable-minerals/mining-claims/locating-a-claim
+
 DMS to DD converter https://www.fcc.gov/media/radio/dms-decimal 
 
-TopoView from the USGS. https://ngmdb.usgs.gov/topoview/viewer/
+TopoView from the USGS https://ngmdb.usgs.gov/topoview/viewer/
 
 Google Earth Township & Range conversion. Helpful for finding starting coordinates based on the T & R data. https://www.earthpoint.us/TownshipsSearchByLatLon.aspx 
+
+National Mine Map Repository https://mmr.osmre.gov/MultiPub.aspx
+
+### Just for fun
+US Geology Map https://mrdata.usgs.gov/geology/us/map-us.html#home
