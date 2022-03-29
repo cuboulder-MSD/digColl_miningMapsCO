@@ -54,3 +54,11 @@ The institution or repository that holds the resource or where it is available: 
 Information about restrictions imposed on access to a resource.
 
 Statement in collection: Material is believed to be in the public domain. However, other rights and restrictions may apply, such as privacy and publicity rights. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+
+## Notes
+### Resources
+DMS to DD converter https://www.fcc.gov/media/radio/dms-decimal 
+
+TopoView from the USGS. https://ngmdb.usgs.gov/topoview/viewer/
+
+Google Earth Township & Range conversion. Helpful for finding starting coordinates based on the T & R data. https://www.earthpoint.us/TownshipsSearchByLatLon.aspx 
